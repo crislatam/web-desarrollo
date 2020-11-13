@@ -68,15 +68,15 @@
           <!-- Your Name -->
           <h1>cristianPincheira</h1>
           <!-- Short Bio -->
-          <p>Hola, si haz llegado aquí es porque necesitas un sitio
-            web o buscas una asesoría en tecnología. Contactame sin
-            problemas, estoy a tu servicio.</p>
+          <p>Hola, si haz llegado aquí es porque necesitas un sitio web o buscas
+            una asesoría en tecnología. Contactame sin problemas, estoy a tu
+            servicio.</p>
           <br>
           <a class="button button-spectrum" href="https://www.instagram.com/cristian_scool/">
             <img class="icon" src="icons/instagram.svg">Instagram</a> <br>
-          <a class="button button-kit" href="https://kit.co/pablokbs"> <img class="icon"
-
-              src="icons/whatsapp-2.svg">Contáctame por Whatsapp</a> <br>
+          <a class="button button-kit" href="https://api.whatsapp.com/send?phone=56966322718">
+            <img class="icon" src="icons/whatsapp-2.svg">Contáctame por Whatsapp</a>
+          <br>
           <a class="button button-medium" href="cristianpincheira.91@gmail.com">
             <img class="icon" src="icons/mail.svg">Envíame un mail</a> <br>
           <a class="button button-linkedin" href="https://www.linkedin.com/in/cristian-andr%C3%A9s-pincheira-abudaya-03635095/">
