@@ -77,7 +77,7 @@
           <a class="button button-kit" href="https://api.whatsapp.com/send?phone=56966322718">
             <img class="icon" src="icons/whatsapp-2.svg">Contáctame por Whatsapp</a>
           <br>
-          <a class="button button-medium" href="cristianpincheira.91@gmail.com">
+          <a class="button button-medium" href="mailto:cristianpincheira.91@gmail.com">
             <img class="icon" src="icons/mail.svg">Envíame un mail</a> <br>
           <a class="button button-linkedin" href="https://www.linkedin.com/in/cristian-andr%C3%A9s-pincheira-abudaya-03635095/">
             <img class="icon" src="icons/linkedin-5.svg">Linkedin</a><br>
